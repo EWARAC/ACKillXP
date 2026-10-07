@@ -1,0 +1,5 @@
+AC Kill XP v0.1.0
+Plugin GUID: {4EDC248A-E237-4516-A17C-5099F515ADC9}
+Assembly GUID: {218D2418-EC57-4C87-A582-E8E79964108C}
+Build target: .NET Framework 4.8 / x86
+Install path: C:\Games\Decal Plugins\AC Kill XP
